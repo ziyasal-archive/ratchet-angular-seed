@@ -1,4 +1,4 @@
 ratchet-angular-seed
 ====================
 
-The perfect starting point for an Ratchet project
+Seed project for Ratchet apps. http://goratchet.com/
