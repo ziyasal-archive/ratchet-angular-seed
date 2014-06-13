@@ -14,7 +14,7 @@ The seed app doesn't do much, just shows how to wire two controllers and views t
 
 To get you started you can simply clone the ratchet-angular-seed repository and install the dependencies:
 
-### Clone angular-seed
+### Clone ratchet-angular-seed
 
 Clone the angular-seed repository using [git][git]:
 
